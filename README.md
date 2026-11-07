@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Java, C++, Python, web development**
 
-- 👨‍💻 All of my projects are available at [......](......)
+- 👨‍💻 All of my projects are available at [Portfolio](https://adi-midla-portfolio.vercel.app/)
 
 - 📫 How to reach me **adimidlaofficial@gmail.com**
 
